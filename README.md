@@ -26,4 +26,8 @@ We utilize the breadth-first search algorithm to traverse every configuration of
 
 To align the central 3x3 pattern of the 25-puzzle board with the Rubik’s Race board, we employ the Euclidean distance metric. This metric helps us identify the closest tiles in the 5x5 puzzle board to the corresponding pattern within the central 3x3 region. We assign the numbers 7, 8, 9, 12, 13, 14, 17, 18, 19, 1 to the respective colors on the Rubik’s Race board.
 
+
+https://github.com/anupam-sharma-1/rubik_race/assets/13178379/30502272-c3c8-47f0-b388-54bd625abe09
+
+
 By implementing these strategies and algorithms, we aim to optimize the solution for Rubik’s Race and address the challenges posed by this unique puzzle game.
